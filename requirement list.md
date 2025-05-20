@@ -1,4 +1,6 @@
 
+35892와 개인 GitHub 주소
+
 ## Requirement List
 
 | No  | Requirement                                                         | Use Case(s)                      |
