@@ -1,5 +1,5 @@
-
-35892와 개인 GitHub 주소
+35892
+https://github.com/Lagufiesta/Assignment2_se.git
 
 ## Requirement List
 
